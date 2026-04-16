@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "title": "Pricing page updated, new Enterprise tier added",
+      "link": "https://example.com/pricing",
+      "category": "website update",
+      "pub_date": "Thu, 27 Feb 2026 07:00:00 GMT",
+      "summary": "Enterprise packaging was added to the pricing page."
+    },
+    {
+      "title": "Announcing global payments expansion",
+      "link": "https://example.com/blog/global-payments",
+      "category": "blog",
+      "pub_date": "Thu, 27 Feb 2026 10:00:00 GMT",
+      "summary": "The company announced broader market coverage for payments."
+    },
+    {
+      "title": "We just launched billing v3. Here's what changed.",
+      "link": "https://x.com/example/status/123",
+      "category": "x",
+      "pub_date": "Wed, 26 Feb 2026 14:30:00 GMT",
+      "summary": "A product launch post on X describing a new billing release."
+    }
+  ]
+}

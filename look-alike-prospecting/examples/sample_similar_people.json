@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "full_name": "Will Cannon",
+      "first_name": "Will",
+      "last_name": "Cannon",
+      "bio": "Founder building B2B lead generation software.",
+      "work_email": "[email protected]",
+      "role": "Founder & CEO",
+      "company_name": "UpLead",
+      "company_website": "https://uplead.com",
+      "city": "Walnut",
+      "country": "US",
+      "x_handle": "willcannon",
+      "input_role": "Founder & CEO"
+    },
+    {
+      "full_name": "Henry Schuck",
+      "first_name": "Henry",
+      "last_name": "Schuck",
+      "bio": "CEO building go-to-market software.",
+      "work_email": "[email protected]",
+      "role": "CEO & Chairman",
+      "company_name": "ZoomInfo",
+      "company_website": "https://zoominfo.com",
+      "city": "Vancouver",
+      "country": "US",
+      "x_handle": null,
+      "input_role": "Founder & CEO"
+    }
+  ]
+}

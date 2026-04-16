@@ -1,0 +1,53 @@
+{
+  "customers": [
+    {
+      "name": "Apple",
+      "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide.",
+      "tagline": "Think different.",
+      "website": "https://www.apple.com",
+      "company_logo_url": "https://nubela.co/api/v1/company/logo?website=https%3A%2F%2Fwww.apple.com",
+      "id": "abc123",
+      "industry": 45202030,
+      "specialties": ["Technology", "Consumer Electronics"],
+      "x_profile": "https://x.com/Apple"
+    },
+    {
+      "name": "Shopify",
+      "description": "Commerce platform powering online stores",
+      "tagline": null,
+      "website": "https://shopify.com",
+      "company_logo_url": "https://nubela.co/api/v1/company/logo?website=https%3A%2F%2Fshopify.com",
+      "id": "shop123",
+      "industry": 25502020,
+      "specialties": ["E-commerce", "Payments"],
+      "x_profile": "https://x.com/shopify"
+    }
+  ],
+  "investors": [
+    {
+      "name": "Sequoia Capital",
+      "description": "Sequoia Capital is a venture capital firm focused on technology companies.",
+      "tagline": null,
+      "website": "https://www.sequoiacap.com",
+      "company_logo_url": "https://nubela.co/api/v1/company/logo?website=https%3A%2F%2Fwww.sequoiacap.com",
+      "id": "def456",
+      "industry": 40203010,
+      "specialties": ["Venture Capital", "Growth Equity"],
+      "x_profile": "https://x.com/sequoia"
+    }
+  ],
+  "partner_platforms": [
+    {
+      "name": "Amazon Web Services",
+      "description": "Amazon Web Services provides cloud computing platforms and APIs.",
+      "tagline": null,
+      "website": "https://aws.amazon.com",
+      "company_logo_url": "https://nubela.co/api/v1/company/logo?website=https%3A%2F%2Faws.amazon.com",
+      "id": "ghi789",
+      "industry": 45101010,
+      "specialties": ["Cloud Computing", "Infrastructure"],
+      "x_profile": "https://x.com/awscloud"
+    }
+  ],
+  "next_page": "https://nubela.co/api/v1/customer/listing?website=https://www.stripe.com&cursor=abc123"
+}

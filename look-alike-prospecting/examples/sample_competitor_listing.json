@@ -1,0 +1,29 @@
+{
+  "competitors": [
+    {
+      "name": "Adyen",
+      "website": "https://www.adyen.com",
+      "description": "Financial technology platform for enterprise businesses.",
+      "competition_type": "product_category_overlap",
+      "reason": "Both companies offer payment infrastructure and enterprise checkout products.",
+      "industry": 40204010
+    },
+    {
+      "name": "Checkout.com",
+      "website": "https://www.checkout.com",
+      "description": "Global payments platform for businesses.",
+      "competition_type": "product_category_overlap",
+      "reason": "Both companies compete in online payments and merchant acquiring workflows.",
+      "industry": 40204010
+    },
+    {
+      "name": "PayPal",
+      "website": "https://www.paypal.com",
+      "description": "Digital payments platform for consumers and merchants.",
+      "competition_type": "organic_seo_overlap",
+      "reason": "Both companies rank for overlapping payments-related organic search terms.",
+      "industry": 40204010
+    }
+  ],
+  "next_page": null
+}
